@@ -1,0 +1,14 @@
+/* TEAM */                            
+Author: Massimiliano Arione
+Twitter: @garakkio
+Location: Rome, Italy
+				
+/* THANKS */
+				
+Mauro: http://mauro.dalatri.it/
+                
+/* SITE */
+               
+Standards: HTML5, CSS3, JavaScript
+Components: Modernizr, jQuery, PHP, Symfony
+                

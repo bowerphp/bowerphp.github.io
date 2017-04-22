@@ -1,0 +1,24 @@
+{
+  "name": "scrollup",
+  "version": "2.3.2",
+  "main": "js/jquery.scrollUp.js",
+  "ignore": [
+    "css",
+    "img",
+    ".travis.yml",
+    "index.html"
+  ],
+  "dependencies": {
+    "jquery": "1.10.2"
+  },
+  "homepage": "https://github.com/markgoodyear/scrollup",
+  "_release": "2.3.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.3.2",
+    "commit": "2d5ba6406b99bc183601e68c15343352efbdc61a"
+  },
+  "_source": "git://github.com/markgoodyear/scrollup.git",
+  "_target": "2.3.*",
+  "_originalSource": "scrollup"
+}
